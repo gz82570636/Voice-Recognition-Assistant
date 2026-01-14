@@ -58,7 +58,7 @@
 * 执行模块:LED 采用共阴极设计,STM32 引脚输出高电平时 LED 点亮;继电器需搭配 NPN 三极管驱动(避免 MCU 引脚过流);
 * 电源模块:5V 输入经 AMS1117-3.3V 稳压后给 STM32 和 LD3320 供电,板载 1000μF 电容滤除电源纹波
 
-​![image](assets/image-20251215155546-2g8bbu8.png)​
+​![image](assets/9a8904a367da39b67c6b2d877cf5bce.png)​
 
 # 硬件设计
 
